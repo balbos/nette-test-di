@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace JanHarsa\Session\DI;
+namespace Balbos\TestDi;
 
 
 use Nette\DI\CompilerExtension;
