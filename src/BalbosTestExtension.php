@@ -4,7 +4,6 @@ namespace JanHarsa\Session\DI;
 
 
 use Nette\DI\CompilerExtension;
-use Nette\DI\Statement;
 
 class BalbosTestExtension extends CompilerExtension
 {
