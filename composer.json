@@ -1,0 +1,14 @@
+{
+  "name": "balbos/test-di",
+  "type": "library",
+  "description": "",
+  "authors": [
+    {
+      "name": "Petr Balvín",
+      "email": "petr.balvin@haxo.cz"
+    }
+  ],
+  "require": {
+    "php": "~7.1"
+  }
+}
